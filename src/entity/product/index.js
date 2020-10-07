@@ -2,11 +2,11 @@
 
 class Product {
     get Id(){
-        return this.Id;
+        return this.id;
     }
 
     set Id(id){
-        this.Id = id;
+        this.id = id;
     }
 
     get Partnumber(){
